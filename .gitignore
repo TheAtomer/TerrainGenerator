@@ -1,0 +1,89 @@
+# Build outputs
+x64/
+x86/
+Debug/
+Release/
+*.exe
+*.exe.recipe
+*.ilk
+*.log
+*.obj
+*.pdb
+*.idb
+*.ipch
+*.tlog/
+*.recipe
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.slnx
+*.vcxproj.user
+*.vcxproj.filters
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+*.vsidx
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Visual Studio cache/options
+ipch/
+Browse.VC.db/
+DocumentLayout.json
+DocumentLayout.backup.json
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.out
+*.app
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
