@@ -45,16 +45,11 @@ git clone https://github.com/your-username/Terrain_Generator.git
 cd Terrain_Generator
 ```
 
-2. 在 Visual Studio 中打开解决方案
-```bash
-# 双击打开 Terrain_Generator.slnx
-```
+2. 选择构建配置 (Debug 或 Release) 和平台 (x64)
 
-3. 选择构建配置 (Debug 或 Release) 和平台 (x64)
+3. 构建解决方案 (Ctrl+Shift+B)
 
-4. 构建解决方案 (Ctrl+Shift+B)
-
-5. 运行应用程序 (F5)
+4. 运行应用程序
 
 ## 系统要求
 
